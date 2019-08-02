@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kingsley/CLionProjects/untitled17/header.h
+stdio.h
+/Users/kingsley/CLionProjects/untitled17/stdio.h
+stdlib.h
+/Users/kingsley/CLionProjects/untitled17/stdlib.h
+stdbool.h
+/Users/kingsley/CLionProjects/untitled17/stdbool.h
+
+/Users/kingsley/CLionProjects/untitled17/init.c
+header.h
+/Users/kingsley/CLionProjects/untitled17/header.h
+
